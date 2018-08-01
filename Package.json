@@ -1,0 +1,14 @@
+{
+  "name": "TestJson",
+  "title": "TestJson",
+  "description": "Test file for beta release",
+  "version": "1.0.0",
+  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jquery/jquery.git"
+  },
+  "keywords": [
+    "Test"
+  ]
+  }
