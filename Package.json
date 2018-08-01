@@ -2,7 +2,7 @@
   "name": "demo-testpackages-repo",
   "title": "demo-testpackages",
   "description": "Test file for beta release",
-  "version": "1.0.0",
+  "version": "1.0.1-beta",
   
   "repository": {
     "type": "git",
